@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KindaWrks
-- 🌱 I’m currently learning ... GDScript
+- 🌱 I’m currently learning ... Python, slowly.
 
 <!---
 KindaWrks/KindaWrks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
